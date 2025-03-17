@@ -1,0 +1,431 @@
+available: true
+id: 0
+mainset:
+- names:
+  - name: Bai
+    probability: 1
+  - name: Bei
+    probability: 1
+  - name: Chang
+    probability: 1
+  - name: Cheng
+    probability: 1
+  - name: Chong
+    probability: 1
+  - name: Chuan
+    probability: 1
+  - name: Da
+    probability: 1
+  - name: De
+    probability: 1
+  - name: Dong
+    probability: 1
+  - name: Duan
+    probability: 1
+  - name: Fang
+    probability: 1
+  - name: Fu
+    probability: 1
+  - name: Gan
+    probability: 1
+  - name: Gao
+    probability: 1
+  - name: Guang
+    probability: 1
+  - name: Gui
+    probability: 1
+  - name: Hai
+    probability: 1
+  - name: Han
+    probability: 1
+  - name: He
+    probability: 1
+  - name: Heng
+    probability: 1
+  - name: Hong
+    probability: 1
+  - name: Hua
+    probability: 1
+  - name: Huai
+    probability: 1
+  - name: Hui
+    probability: 1
+  - name: Ji
+    probability: 1
+  - name: Jia
+    probability: 1
+  - name: Jian
+    probability: 1
+  - name: Jiang
+    probability: 1
+  - name: Jiao
+    probability: 1
+  - name: Jing
+    probability: 1
+  - name: Jiu
+    probability: 1
+  - name: Kun
+    probability: 1
+  - name: Lan
+    probability: 1
+  - name: Le
+    probability: 1
+  - name: Lian
+    probability: 1
+  - name: Liang
+    probability: 1
+  - name: Lin
+    probability: 1
+  - name: Long
+    probability: 1
+  - name: Lou
+    probability: 1
+  - name: Luo
+    probability: 1
+  - name: Mei
+    probability: 1
+  - name: Min
+    probability: 1
+  - name: Mo
+    probability: 1
+  - name: Nan
+    probability: 1
+  - name: Ning
+    probability: 1
+  - name: Ping
+    probability: 1
+  - name: Pu
+    probability: 1
+  - name: Qian
+    probability: 1
+  - name: Qing
+    probability: 1
+  - name: Qiong
+    probability: 1
+  - name: Ren
+    probability: 1
+  - name: Rong
+    probability: 1
+  - name: Ru
+    probability: 1
+  - name: Sha
+    probability: 1
+  - name: Shan
+    probability: 1
+  - name: Shang
+    probability: 1
+  - name: Shao
+    probability: 1
+  - name: Shen
+    probability: 1
+  - name: Shi
+    probability: 1
+  - name: Shun
+    probability: 1
+  - name: Si
+    probability: 1
+  - name: Song
+    probability: 1
+  - name: Su
+    probability: 1
+  - name: Tai
+    probability: 1
+  - name: Tang
+    probability: 1
+  - name: Tian
+    probability: 1
+  - name: Tong
+    probability: 1
+  - name: Wan
+    probability: 1
+  - name: Wei
+    probability: 1
+  - name: Wen
+    probability: 1
+  - name: Wu
+    probability: 1
+  - name: Xi
+    probability: 1
+  - name: Xiang
+    probability: 1
+  - name: Xian
+    probability: 1
+  - name: Xin
+    probability: 1
+  - name: Xu
+    probability: 1
+  - name: Xun
+    probability: 1
+  - name: Ya
+    probability: 1
+  - name: Yan
+    probability: 1
+  - name: Yang
+    probability: 1
+- names:
+  - name: an
+    probability: 1
+  - name: bai
+    probability: 1
+  - name: bei
+    probability: 1
+  - name: bo
+    probability: 1
+  - name: cheng
+    probability: 1
+  - name: chi
+    probability: 1
+  - name: chun
+    probability: 1
+  - name: dao
+    probability: 1
+  - name: dian
+    probability: 1
+  - name: du
+    probability: 1
+  - name: fang
+    probability: 1
+  - name: fen
+    probability: 1
+  - name: gan
+    probability: 1
+  - name: gang
+    probability: 1
+  - name: gu
+    probability: 1
+  - name: guan
+    probability: 1
+  - name: hai
+    probability: 1
+  - name: han
+    probability: 1
+  - name: he
+    probability: 1
+  - name: hua
+    probability: 1
+  - name: huang
+    probability: 1
+  - name: ji
+    probability: 1
+  - name: jian
+    probability: 1
+  - name: jing
+    probability: 1
+  - name: ju
+    probability: 1
+  - name: jun
+    probability: 1
+  - name: kai
+    probability: 1
+  - name: lang
+    probability: 1
+  - name: lian
+    probability: 1
+  - name: lin
+    probability: 1
+  - name: long
+    probability: 1
+  - name: lu
+    probability: 1
+  - name: min
+    probability: 1
+  - name: ning
+    probability: 1
+  - name: ping
+    probability: 1
+  - name: qian
+    probability: 1
+  - name: qiao
+    probability: 1
+  - name: qin
+    probability: 1
+  - name: qing
+    probability: 1
+  - name: shan
+    probability: 1
+  - name: shui
+    probability: 1
+  - name: su
+    probability: 1
+  - name: tang
+    probability: 1
+  - name: tong
+    probability: 1
+  - name: wei
+    probability: 1
+  - name: wu
+    probability: 1
+  - name: xian
+    probability: 1
+  - name: yan
+    probability: 1
+  - name: yang
+    probability: 1
+  - name: '-'
+    probability: 20
+  - name: ' '
+    probability: 11
+- names:
+  - name: an
+    probability: 1
+  - name: bai
+    probability: 1
+  - name: bao
+    probability: 1
+  - name: bei
+    probability: 1
+  - name: bin
+    probability: 1
+  - name: bo
+    probability: 1
+  - name: bu
+    probability: 1
+  - name: cang
+    probability: 1
+  - name: cheng
+    probability: 1
+  - name: chi
+    probability: 1
+  - name: chun
+    probability: 1
+  - name: cun
+    probability: 1
+  - name: dao
+    probability: 1
+  - name: dian
+    probability: 1
+  - name: du
+    probability: 1
+  - name: fang
+    probability: 1
+  - name: fu
+    probability: 1
+  - name: gang
+    probability: 1
+  - name: gao
+    probability: 1
+  - name: gu
+    probability: 1
+  - name: guan
+    probability: 1
+  - name: hai
+    probability: 1
+  - name: han
+    probability: 1
+  - name: he
+    probability: 1
+  - name: hong
+    probability: 1
+  - name: hua
+    probability: 1
+  - name: huang
+    probability: 1
+  - name: hui
+    probability: 1
+  - name: ji
+    probability: 1
+  - name: jia
+    probability: 1
+  - name: jie
+    probability: 1
+  - name: jin
+    probability: 1
+  - name: jing
+    probability: 1
+  - name: jiu
+    probability: 1
+  - name: kong
+    probability: 1
+  - name: lang
+    probability: 1
+  - name: le
+    probability: 1
+  - name: lian
+    probability: 1
+  - name: lin
+    probability: 1
+  - name: lu
+    probability: 1
+  - name: min
+    probability: 1
+  - name: ning
+    probability: 1
+  - name: ping
+    probability: 1
+  - name: pu
+    probability: 1
+  - name: qian
+    probability: 1
+  - name: qiao
+    probability: 1
+  - name: qin
+    probability: 1
+  - name: qing
+    probability: 1
+  - name: shan
+    probability: 1
+  - name: shui
+    probability: 1
+  - name: song
+    probability: 1
+  - name: su
+    probability: 1
+  - name: tai
+    probability: 1
+  - name: tang
+    probability: 1
+  - name: tong
+    probability: 1
+  - name: wan
+    probability: 1
+  - name: wei
+    probability: 1
+  - name: wen
+    probability: 1
+  - name: wu
+    probability: 1
+  - name: xi
+    probability: 1
+  - name: xiang
+    probability: 1
+  - name: xian
+    probability: 1
+  - name: xin
+    probability: 1
+  - name: xing
+    probability: 1
+  - name: xu
+    probability: 1
+  - name: xun
+    probability: 1
+  - name: ya
+    probability: 1
+  - name: yan
+    probability: 1
+  - name: yang
+    probability: 1
+  - name: ye
+    probability: 1
+  - name: yi
+    probability: 1
+  - name: yong
+    probability: 1
+  - name: you
+    probability: 1
+  - name: yuan
+    probability: 1
+  - name: yue
+    probability: 1
+  - name: yun
+    probability: 1
+  - name: zhai
+    probability: 1
+  - name: zhan
+    probability: 1
+  - name: zhou
+    probability: 1
+  - name: zhuang
+    probability: 1
+name: Chinese (English)
+source: null
+subsets: []
