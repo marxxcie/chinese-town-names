@@ -1,4 +1,3 @@
-# Blank TrueGRF template (Townname)
+# Chinese Town Names TrueGRF
 
-This is a completely blank [TrueGRF](https://truegrf.truebrain.nl/) project to design your townname GRFs with.
-TrueGRF makes creating NewGRFs easy.
+My First [TrueGRF](https://truegrf.truebrain.nl/) project to add Romanised Chinese town names to the game.
